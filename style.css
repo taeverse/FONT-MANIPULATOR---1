@@ -1,0 +1,53 @@
+body {
+    text-align: center;
+    font-size: 18px;
+    color: black;
+    font-weight: bolder;
+}
+
+span {
+    color: black;
+    font-size: 16;
+}
+
+
+.copy_right_footer {
+    font-size: 19;
+    font-weight: 80%;
+    bottom: -10px;
+    ;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    line-height: 3;
+}
+
+canvas {
+    border: 5px solid rgb(255, 252, 252);
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(1, 1, 1);
+    background-color: black;
+    text-align: center;
+
+}
+
+
+h3 {
+    color: rgb(255, 247, 247);
+    width: 100%;
+    font-size: 17px;
+    margin: 0;
+    font-weight: bolder;
+    box-shadow: 5px 5px 5px rgb(0, 0, 0);
+    background-color: black;
+}
+
+
+
+
+.note {
+    color: rgb(255, 255, 255);
+    font: 1;
+}
